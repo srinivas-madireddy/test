@@ -15,4 +15,8 @@ college times
 sametime commit by srinu and shru..
 hanup welcomes all to gtihub...
 hello
+<<<<<<< HEAD
  to cloudgen sys pvt ltd.
+=======
+srinivas is typing
+>>>>>>> branch 'Branch-01' of https://github.com/srinivas-madireddy/test.git
