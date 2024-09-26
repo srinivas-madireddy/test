@@ -1,0 +1,18 @@
+hello world by srinu(Sharu)
+
+hi by sharu
+<<<<<<< HEAD
+
+=======
+
+college times
+>>>>>>> branch 'Branch-01' of https://github.com/srinivas-madireddy/test.git
+
+
+
+
+
+sametime commit by srinu and shru..
+hanup welcomes all to gtihub...
+hello..
+srinivas is typing
